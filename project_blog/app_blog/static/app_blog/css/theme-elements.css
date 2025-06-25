@@ -7044,7 +7044,7 @@ ul.thumbnail-gallery li {
 
 /* Lazy */
 .lazy-bg {
-  background-image: url(http://0.0.0.0:8000/css/img/lazy.png);
+  background-image: url(img/lazy.png);
 }
 
 /* Arrows */
@@ -9450,13 +9450,13 @@ Credits: Codyhouse (https://codyhouse.co/gem/360-degrees-product-viewer)
 }
 
 .background-svg-style-1 .dots {
-  -webkit-filter: url(theme-elements.css);
-          filter: url(theme-elements.css);
+  -webkit-filter: url(#shadow);
+          filter: url(#shadow);
 }
 
 .background-svg-style-1 .dots.dots-animation {
-  -webkit-filter: url(theme-elements.css);
-          filter: url(theme-elements.css);
+  -webkit-filter: url(#shadow);
+          filter: url(#shadow);
 }
 
 /* Tooltips */
